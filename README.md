@@ -1,8 +1,8 @@
 # Chronoscribe
 
-A lightweight, offline-first Markdown editor with a cosmic aesthetic.
+A lightweight, offline-first Markdown editor .
 
-一款精美的轻量级 Markdown 编辑器，离线可用，自带宇宙主题界面。
+一款精美的轻量级 Markdown 编辑器，离线可用。
 
 **Download (Windows x64):** [Releases](https://github.com/zhuofushow/chronoscribe/releases)
 
@@ -33,9 +33,8 @@ A lightweight, offline-first Markdown editor with a cosmic aesthetic.
 
 1. Download `Chronoscribe_1.0.0_x64-setup.exe` from [Releases](https://github.com/zhuofushow/chronoscribe/releases).
 2. Run the installer (English UI). Optional: desktop shortcut, run after install, set as default Markdown opener.
-3. Launch Chronoscribe — the landing page shows the Wheeler–DeWitt equation; open or create files from the sidebar or toolbar.
-
-从 [Releases](https://github.com/zhuofushow/chronoscribe/releases) 下载安装包，按向导安装即可。安装完成后可直接启动；起始页为惠勒–德威特方程，可从侧栏或工具栏打开/新建文件。
+   
+从 [Releases](https://github.com/zhuofushow/chronoscribe/releases) 下载安装包，按向导安装即可。安装完成后可直接启动；
 
 **Requirements / 系统要求:** Windows 10/11, x64, WebView2 (installer can fetch runtime if missing).
 
